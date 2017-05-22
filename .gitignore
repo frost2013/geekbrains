@@ -1,0 +1,7 @@
+## Visual Studio
+Debug
+.vs
+
+## Intellij Idea
+out
+.idea
